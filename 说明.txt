@@ -1,0 +1,6 @@
+我是按照我的编译路径添加库的，你们要自己解决库依赖问题，不复杂，应该很好解决，因为没有外部库依赖
+
+依赖信息：
+testoc->objectcore->thread_pool
+
+thread_pool_test->thread_pool
